@@ -7,4 +7,6 @@ package com.sc.bean;
  * @date 2020-07-25 12:11  星期六
  */
 public class Student {
+
+
 }
